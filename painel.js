@@ -1,0 +1,1 @@
+console.timeUser-PerformanceObserverEntryList('Painel Usuario')
